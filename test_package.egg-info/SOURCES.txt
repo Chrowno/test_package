@@ -1,8 +1,0 @@
-README.md
-setup.py
-test_package.egg-info/PKG-INFO
-test_package.egg-info/SOURCES.txt
-test_package.egg-info/dependency_links.txt
-test_package.egg-info/top_level.txt
-test_package_one/__init__.py
-test_package_one/epic_file.py
